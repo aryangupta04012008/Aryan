@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+    background-image: url('9553.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    p{
+    font-family: arial;
+    font-size: 50px;
+    font-weight: 700;
+    font-size: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 3px 0px 4px black;
+}
+}                   
